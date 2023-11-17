@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    text-align: center;
+    border:solid 1px;
+    background-color: gainsboro;
+    padding:50px 0;
+}
+
+.km, .nome, .risultato {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
